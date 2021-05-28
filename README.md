@@ -9,3 +9,10 @@ nivelRio;
 
 A aplicação irá executar um script toda vez que a boia emitir o sinal de que o nível da água subiu.
 Com esses dados, gerar um arquivo (txt/CSV) com as informações coletadas.
+Estrutura do arquivo:
+diaSemana;
+horario;
+nivelRio;
+alertaEnviado
+
+Se a boia emitir sinais 3x no dia, a mesma envia um alerta de segurança 
