@@ -6,10 +6,10 @@
 <h1 align="center">GSTI</h1>
 
 <h1 align="center">Sensor de Enchentes</h1>
-<h2 align="center">Descrição do projeto</h2>
+<h2>Descrição do projeto</h2>
 Uma aplicação IoT com diversos sensores para coleta de dados foi implementada em um rio, onde é coletado o nível da água.
 
-<h2 align="center">Como funciona</h2>
+<h2>Como funciona</h2>
 Os dados da aplicação são enviados através de uma API e estão organizados da seguinte forma:
 
   - diaSemana;
