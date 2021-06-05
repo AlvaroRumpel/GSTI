@@ -5,12 +5,11 @@
 
 # GSTI
 
-## Introdução
+<h1 align="center">Sensor de Enchentes</h1>
+<h2 align="center">Descrição do projeto</h2>
+<p align="center">Uma aplicação IoT com diversos sensores para coleta de dados foi implementada em um rio, onde é coletado o nível da água.</p>
 
-### Objetivos
 
-Sensor de enchente
-Uma aplicação IoT com diversos sensores para coleta de dados foi implementada em um rio, onde é coletado o nível da água.
 
 Os dados da aplicação são enviados através de uma API e estão organizados da seguinte forma:
   - diaSemana;
