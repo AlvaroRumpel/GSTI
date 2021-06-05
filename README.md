@@ -27,6 +27,7 @@ Estrutura do arquivo:
 Se a boia emitir sinais 3x no dia, a mesma envia um alerta de segurança 
 
 <h1 align="center">Autores</h1>
+
   - Álvaro C. Rumpel
   - Escreva o nome
   - Escreva o nome
