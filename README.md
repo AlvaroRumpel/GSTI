@@ -22,7 +22,7 @@ Estrutura do arquivo:
 
 | diaSemana | horario | nivelRio | alertaEnviado |
 |:---------:|:-------:|:--------:|:-------------:|
-|           |         |          |               |
+|Segunda-feira|23:56:34|3|------ALERT------|
   
 Se a boia emitir sinais 3x no dia, a mesma envia um alerta de segurança 
 
