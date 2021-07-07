@@ -24,7 +24,12 @@ Estrutura do arquivo:
 |:---------:|:-------:|:--------:|:-------------:|
 |Segunda-feira|23:56:34|3|------ALERT------|
 
-
+<h1 align="center">Como usar</h1>
+  - Clonar o projeto com <code>git clone https://github.com/AlvaroRumpel/GSTI.git</code><br>
+  - Dentro do diretório do projeto executar o <code>yarn</code><br>
+  - Dentro do diretório do projeto executar o <code>node index</code><br>
+  - Executar o arquivo <b>dados.sh</b><br>
+  - Será criado um arquivo chamado <b>Relatorio.csv</b> que vai ter as informações coletadas do localhost<br>
 
 <h1 align="center">Autores</h1>
 
